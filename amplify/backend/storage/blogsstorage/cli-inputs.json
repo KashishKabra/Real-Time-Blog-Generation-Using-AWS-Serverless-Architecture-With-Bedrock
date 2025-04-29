@@ -1,0 +1,14 @@
+{
+  "resourceName": "blogsstorage",
+  "policyUUID": "ab4d2a41",
+  "bucketName": "blogs",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
